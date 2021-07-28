@@ -3,7 +3,7 @@
 Shop Console Application using Rust
 
 ## Demo
-
+![Demo](https://raw.githubusercontent.com/jackyrusly/jrshop/master/assets/demo.png)
 
 ## Author
 [Jacky Rusly](https://www.jackyrusly.web.id)
